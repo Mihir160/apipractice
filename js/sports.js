@@ -73,6 +73,7 @@ const displayLegue = (teams) =>{
         legueDiv.innerHTML =``
         legueDiv.classList.add('col');
         legueDiv.innerHTML = `
+        
         <div class="card">
             <img src="${legue.strStadiumThumb}" class="card-img-top" alt="...">
                 <div class="card-body">
